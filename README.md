@@ -16,13 +16,12 @@ Python - Hard           |  Machine Learning - Medium
 
 
 ## Getting Started
-
 1. Clone or download the repository.
 2. Create a `.env` file in the root directory with your OpenAI API key: `OPENAI_KEY=<your_openai_key>`. Obtain your key [here](https://platform.openai.com/overview).
 3. Execute `main.py` to begin the challenge. Enjoy the fun—or the despair!
 
 ## Gameplay
-
+- Run `main.py` the moment your match starts.
 - Answer trivia questions using keys `7`, `8`, `9`, `10`—while still playing the actual League match!
 - Incorrect answers will temporarily disable one key from the set `q`, `w`, `e`, `r`, `d`, `f`. Employ strategy and knowledge to succeed!
 - Track your question score within the app. Aim to maintain a positive question score by the match's end!
