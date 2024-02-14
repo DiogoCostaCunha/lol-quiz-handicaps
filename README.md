@@ -30,7 +30,7 @@ Python - Hard           |  Machine Learning - Medium
 
 Customize the trivia by modifying topics and difficulty levels in `configs.json`.
 
-## Support My Channel
+## Support My Channel 🚀
 
 I'm on a quest to create innovative and entertaining content, exploring the intersections of AI, software, and hardware. Although I'm just starting with simpler projects, I promise a journey filled with learning and laughter. If you're intrigued, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UCqnIZIGyH6NgJ8OkJAvZyKg?sub_confirmation=1) to stay updated with all the exciting projects on the horizon.
 
